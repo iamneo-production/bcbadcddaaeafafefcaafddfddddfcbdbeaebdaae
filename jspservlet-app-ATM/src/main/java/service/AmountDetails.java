@@ -14,7 +14,7 @@ public class AmountDetails implements InterfaceClass {
     }
 
     public double accountBalance(double arg1) {
-        // TODO Auto-generated method stub
+        
         return arg1;
     }
 	

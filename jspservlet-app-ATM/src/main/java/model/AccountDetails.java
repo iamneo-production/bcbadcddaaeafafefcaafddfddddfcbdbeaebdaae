@@ -37,5 +37,5 @@ public class AccountDetails{
 	}
 	public void setPin(int pin) {
 		this.pin = pin;
-	}
+	}//
 }
